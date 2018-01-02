@@ -1,4 +1,4 @@
-## **Human Activity Recognition Using Smartphones Dataset**
+## **Codebook**
 
 ### Data Source
 The data used in this repo can be pulled from this [link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) with further information on the dataset found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
