@@ -24,7 +24,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 - Each feature vector is a row on the text file.
 
 ### Script Description
-The script used in this repo is used to do the following:
+The R script saved in this repo is used to do the following:
 
 - Combine the training and testing datasets with the subject & activity datasets
 - Extract those features containing std and mean including subject & activity
