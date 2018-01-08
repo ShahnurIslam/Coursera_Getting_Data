@@ -13,7 +13,7 @@ Before running any R script you need to have the following completed:
 3. Have the package **'reshape2'** installed for your R session
 
 The R script saved in this repo combines the training & testing datasets then extracts all features related to mean or standard deviation.
-The resultling tidy dataset is outputted as 'tidy_data.txt' & can be also be found in the Repo
+The resultling tidy dataset is outputted as 'tidy_data.txt' & can be also be found in the repo
 
 ### Codebook Description
 
