@@ -1,4 +1,4 @@
-# Coursera_Getting_Data Introduction
+# Coursera Getting Data Introduction
 
 This repo contains my work for the Final Assignment of Coursera Getting &amp; Cleaning Data from the Data Science Specialisation Course.
 
