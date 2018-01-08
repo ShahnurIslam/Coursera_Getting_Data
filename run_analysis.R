@@ -1,4 +1,5 @@
 getwd()
+library(reshape2)
 setwd("C:/Users/shahnur islam/Desktop/UCI HAR Dataset")
 training <- read.csv('./train/X_train.txt', sep="", header = FALSE)
 training[,562]<- read.csv('./train/Y_train.txt',sep="" ,header = FALSE)
