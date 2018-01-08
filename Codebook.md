@@ -2,23 +2,13 @@
 
 
 ## Project Description
-In the Coursera assignment, we were asked to demonstrate our ability to get and clean data. The dat
+In the Coursera assignment, we were asked to demonstrate our ability to get and clean data. The data set was based on a wearable tech experiment with further information below.
 
 
 ## Data Source
-The data we are using is collected from accelerometers from the Samsung Galaxy S smartphone and is known as the 'Human Activity Recognition Using Smartphones Data Set’
+The data we are using is collected from accelerometers from the Samsung Galaxy S smartphone and is labelled as'Human Activity Recognition Using Smartphones Data Set’
 
 The zip file can be downloaded from this [link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) with further information found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-
-
-## R Script Description
-The R script saved in this repo is used to do the following:
-
-- Load the 'reshape2' package
-- Combine the training and testing datasets with the subject & activity datasets
-- Extract those features containing std and mean including subject & activity
-- Summarising the resulting dataset by Subject & Activity
-- The resulting tidy dataset was will be saved in the working directory as 'tidy_data.txt'
 
 
 
@@ -39,3 +29,12 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
+
+## R Script Description
+The R script saved in this repo is used to do the following:
+
+- Load the 'reshape2' package
+- Combine the training and testing datasets with the subject & activity datasets
+- Extract those features containing std and mean including subject & activity
+- Summarising the resulting dataset by Subject & Activity
+- The resulting tidy dataset was will be saved in the working directory as 'tidy_data.txt'
